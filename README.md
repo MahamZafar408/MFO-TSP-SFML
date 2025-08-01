@@ -1,5 +1,3 @@
- # MFO-TSP-SFML
-Moth-Flame Optimizer solving TSP with SFML visualization in C++
 # MFO-TSP-SFML
 
 This project implements the Moth-Flame Optimizer (MFO) to solve the Traveling Salesman Problem (TSP) using C++ and SFML for interactive visualizations.
